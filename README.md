@@ -1,8 +1,5 @@
 Module d’apprentissage dédié à la prise en main de GitHub : gestion de dépôts, versioning, collaboration (branches, pull requests), et bonnes pratiques de développement.
 
-# Contributeurs : 
-  - Johan
-
 ## 📚 Informations générales
 - **Formateur :** Mr. TOUIL  
 - **Formation :** Préparation Mastère Cybersécurité – IPSSI  
@@ -39,4 +36,7 @@ Module d’apprentissage dédié à la prise en main de GitHub : gestion de dép
 - Une branche par fonctionnalité
 - Utilisation des labels et issues
 - Code propre et documenté
+
+  # Contributeurs : 
+  - Johan
 

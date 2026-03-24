@@ -17,7 +17,7 @@ Module d’apprentissage dédié à la prise en main de GitHub : gestion de dép
 ## 🛠️ Technologies utilisées
 - Git
 - GitHub
-- Terminal (CLI)
+- Terminal
 - VS Code
 
 ## 📁 Organisation du projet
@@ -27,7 +27,7 @@ Module d’apprentissage dédié à la prise en main de GitHub : gestion de dép
 - milestones pour le suivi des versions
 
 ## 👥 Collaboration
-- Travail en équipe
+- Travail en équipe de 2
 - Assignation des issues
 - Revues de code via pull requests
 
